@@ -41,13 +41,13 @@
 - 서울시 외곽지역에 위치 (반경 25km)
 - 교통 접근성, 주변 편의시설
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image.png)
+![image.png](images/image.png)
 
 1. **데이터 분석**
 
 **2-1 데이터 분석 파이프라인**
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%201.png)
+![image.png](images/image1.png)
 
 **2-2 데이터 수집 및 전처리**
 
@@ -83,40 +83,40 @@
 
 - 약 45.2%의 대피소가 수도권에 위치
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%202.png)
+![image.png](images/image2.png)
 
 - 선행 연구에 따라 커널 밀도 함수 응용하여 행정동별 대피소 분포에 따른 밀도 점수 계산하여 시각화
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%203.png)
+![image.png](images/image3.png)
 
 **2-4 지표 설계 및 점수 계산**
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%204.png)
+![image.png](images/image4.png)
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%205.png)
+![image.png](images/image5.png)
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%206.png)
+![image.png](images/image6.png)
 
 **2-5 클러스터링**
 
 - 주성분 분석
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%207.png)
+![image.png](images/image7.png)
 
 - 군집화
 - 군집 수 결정
     - 행정동 : 실루엣 스코어가 군집 수 2개일 때 가장 높았으나 데이터 특성 및 분포를 감안하여 군집 수는 3으로 결정
     - 대피소 : 실루엣 스코어가 군집 수 3개일 때 가장 높았으나 데이터 특성 및 분포를 감안하여 군집 수는 4로 결정
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%208.png)
+![image.png](images/image8.png)
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%209.png)
+![image.png](images/image9.png)
 
 1. 아이디어 제안
 
 3-1 취약 자치구별 제안
 
-![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%2010.png)
+![image.png](images/image10.png)
 
 3-2 추가 입지 제안
 
@@ -125,4 +125,4 @@
         - 편의시설 개수 지표
         - 편의시설 최단거리 지표
     
-    ![image.png](%EC%9E%90%EC%B2%B4%20%EC%A7%80%ED%91%9C%20%EC%88%98%EB%A6%BD%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B7%A8%EC%95%BD%20%EB%8C%80%ED%94%BC%EC%86%8C%20%EC%84%A0%EB%B3%84%20&%20%EC%99%B8%EA%B3%BD%20%EC%9E%85%EC%A7%80%20%EC%A0%9C%EC%95%88/image%2011.png)
+    ![image.png](images/image11.png)
